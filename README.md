@@ -5,7 +5,7 @@ There's multiple folders because the main project is splitted into a binary crat
 You can explore the ones you want to know more about (they all have READMEs) :
 - "tetra" (main project) : Graphics renderer.
 - "suballocation" : Allocate/Reallocate/Deallocate regions of a given memory buffer, for objects that changes in size at runtime.
-- "bvh" : Bounding Volume Hierachy, an acceleration struture used in ray tracing.
+- "bvh" : Bounding Volume Hierarchy, an acceleration structure used in ray tracing.
 - ".._utils" : Just some utilities, not that interesting.
 
 # Launch
@@ -18,10 +18,10 @@ Need :
 Download whole project :
 
 ```bash
-git clone https://github.com/CireTheBoos/project
+git clone https://github.com/Eric-Simon-Dev/sandbox-game
 ```
 
-Open terminal in "project/tetra" and type :
+Open terminal in "sandbox-game/tetra" and type :
 
 ```bash
 cargo run -r
