@@ -18,10 +18,10 @@ Need :
 Download whole project :
 
 ```bash
-git clone https://github.com/CireTheBoos/project
+git clone https://github.com/Eric-Simon-Dev/sandbox-game
 ```
 
-Open terminal in "project/tetra" and type :
+Open terminal in "sandbox-game/tetra" and type :
 
 ```bash
 cargo run -r
